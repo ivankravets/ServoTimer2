@@ -1,0 +1,11 @@
+{
+    "name": "ServoTimer2",
+    "description" : "ServoTimer2",
+    "keywords": "servo timer 2",
+
+    "repository":
+    {
+            "type": "git",
+            "url": "https://github.com/tweetgeek/ServoTimer2.git"
+    }
+}
